@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "commune": "Paris",
+    "password": "hashedPassword123"
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phoneNumber": "+0987654321",
+    "email": "jane.smith@example.com",
+    "commune": "Lyon",
+    "password": "hashedPassword456"
+  }
+]
